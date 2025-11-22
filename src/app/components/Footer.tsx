@@ -14,8 +14,7 @@ const Footer = () => {
                     <h3 className={styles.brand}>Teta-Aida</h3>
                     <p className={styles.tagline}>{t.footer.follow}</p>
                     <div className={styles.links}>
-                        <Link href="#" className={styles.link}>{t.footer.instagram}</Link>
-                        <Link href="mailto:hello@teta-aida.com" className={styles.link}>{t.footer.email}</Link>
+                        <Link href="https://www.instagram.com/teta_3ayda" target="_blank" className={styles.link}>{t.footer.instagram}</Link>
                     </div>
                 </div>
                 <div className={styles.copyright}>
