@@ -16,8 +16,8 @@ const notoKufiArabic = Noto_Kufi_Arabic({
 });
 
 export const metadata: Metadata = {
-  title: "Teta-Aida | Authentic Egyptian Preserved Foods",
-  description: "Handcrafted green olives, kronb, and pickles made with Teta Aida's secret recipes.",
+  title: "Teta-Aida | Authentic Egyptian Mokhalel",
+  description: "Handcrafted green olives, kronb, and mokhalel made with Teta Aida's secret recipes.",
   icons: {
     icon: '/logo.jpg',
     apple: '/logo.jpg',

@@ -134,7 +134,7 @@ const translations: Record<Language, Translations> = {
         },
         about: {
             title: "Our Story",
-            text1: "Teta-Aida is a tribute to the warmth of Egyptian homes and the timeless flavors of our grandmothers' kitchens. Born from a longing for the authentic taste of home, we bring you handcrafted preserved foods made with patience and love.",
+            text1: "Teta-Aida is a tribute to the warmth of Egyptian homes and the timeless flavors of our grandmothers' kitchens. Born from a longing for the authentic taste of home, we bring you handcrafted mokhalel made with patience and love.",
             text2: "Our recipes are 100% Egyptian, passed down through generations. Every jar of olives, every crunchy piece of kronb, and every pickle carries the true essence of our heritage. We use only the finest natural ingredients, just like Teta used to.",
         },
         products: {
